@@ -1,0 +1,8 @@
+main: com.voidcraftplays.inspectplayer.Main
+version: 1.0
+name: Inspections
+commands:
+  inspect:
+    description: This command is used to start inspecting a player online!
+  info: 
+    description: A command to let you open the player's inventory who you are currently inspecting.

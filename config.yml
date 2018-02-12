@@ -1,0 +1,6 @@
+settings:
+  bans:
+    # Ban length variables are as follows: MO = Months, D = Days, M = Minutes, S = Seconds
+    ban1: "1d"
+    ban2: "7d"
+    ban3: "30d"
